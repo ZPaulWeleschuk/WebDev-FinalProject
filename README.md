@@ -33,4 +33,6 @@ Create a full stack web application that will allow users to keep track of their
 * MySQL database accessed with JPA to provide object-relational mapping
 
 
-### Note: developing a pretty UI was not required for assignment, hence the simplistic UI
+### Author: Z. Paul Weleschuk
+
+#### Note: developing a pretty UI was not required for assignment, hence the simplistic UI
